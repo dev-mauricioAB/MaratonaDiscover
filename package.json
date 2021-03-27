@@ -1,0 +1,28 @@
+{
+  "name": "MaratonaDiscover",
+  "version": "1.0.0",
+  "description": "Freelance Calculator",
+  "main": "src/server.js",
+  "scripts": {
+    "dev:server": "nodemon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-mauricioAB/MaratonaDiscover.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-mauricioAB/MaratonaDiscover/issues"
+  },
+  "homepage": "https://github.com/dev-mauricioAB/MaratonaDiscover#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
